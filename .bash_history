@@ -166,3 +166,9 @@ cd cgi-bin
 ls -lAF
 python3 oop_e010_main.py
 su
+ls
+vim README.md
+git merge -a
+git merge --all
+git commit -a
+git push
