@@ -1,10 +1,1 @@
-Обновленный
-<<<<<<< HEAD
-tmp
-new_branCh
-
-=======
-файл
-git push -m "Изменение" -m "Описание"
-new_branc
->>>>>>> master
+new_branc or master
