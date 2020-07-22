@@ -172,3 +172,49 @@ git merge -a
 git merge --all
 git commit -a
 git push
+git diff
+git commit
+git commit -a
+git push
+git pull
+git pull
+git pull
+git push
+git push
+ls
+vim index.html
+git help add
+git add -i
+git help commit
+git push
+git commit
+git commit --all
+git push
+git pull
+git pull
+vim inex.html
+vim index.html
+cat > tmp/01.txt
+dit add -all
+git add -all
+git add --all
+git diff
+git status
+git commit
+git push
+git push
+git pull
+git pull
+git push
+git push --help
+git push -f
+vim index.html
+git commit -a
+vim  .git/MERGE_HEAD
+git push
+git push -f
+vim index.html
+status
+git status
+git log
+git log --pretty=oneline
