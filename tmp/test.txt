@@ -1,6 +1,6 @@
 githab__branch
-Обновленный
+Обновленный githab__branch
 githab__branch
 файл
 git push -m "Изменение" -m "Описание"
-new_branc
+new_branc githab__branch
